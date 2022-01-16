@@ -13,8 +13,8 @@ Tools to build decision support systems:
 D(X), D(Y)
 
 
-X ∈ D(X) , Y ∈ D(Y)
-|X| + |Y| = 10
+X ∈ D(X) , Y ∈ D(Y)\
+Constraint (stability Diamond): |X| + |Y| = 10
 
 
 Problem:
