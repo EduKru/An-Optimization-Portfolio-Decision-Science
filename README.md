@@ -7,3 +7,4 @@ Tools to build decision support systems:
 - GAMS
 - Gurobi
 - MiniZinc
+- OR-Tools (Google)
