@@ -8,6 +8,7 @@ Tools to build decision support systems:
 - Gurobi
 - MiniZinc
 - OR-Tools (Google)
+- ZIMPL
 
 
 D(X), D(Y)
