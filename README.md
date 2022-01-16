@@ -17,6 +17,6 @@ X ∈ D(X) , Y ∈ D(Y)\
 Constraint (stability Diamond): |X| + |Y| = 10
 
 
-Problem:
+Problem:\
 Find the largest D'(x) ⊆ D(X) and D'(Y) ⊆ D(Y)
 X ∈ D'(X), Y ∈ D'(Y)
