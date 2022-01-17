@@ -22,7 +22,7 @@ Problem:\
 Find the largest D'(x) ⊆ D(X) and D'(Y) ⊆ D(Y)\
 X ∈ D'(X), Y ∈ D'(Y)
 
-
+Σ
 θ
 
 Α	α	Alpha	a	
