@@ -1,4 +1,7 @@
 # An-Optimization-Portfolio
+
+I am working on this course: https://www.coursera.org/learn/basic-modeling/home/welcome
+
 This Portfolio will cover some examples of problems
 
 What solvers are out there which one could use to solve an optimization problem?
