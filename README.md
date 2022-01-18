@@ -111,4 +111,12 @@ examples:
 b = x[2] < y[2] /\ x[4] < y[4]
 
 
+sets:
+- set of type
+- union, intersect, subset, superset, diff, symdiff, card
+- set of int: ROW = 1..6;
+- set of float: RAN = 3.0 .. 5.0;
+- set of bool: bs = {PRIME subset ROW, false}
+
+
 ouput [listofstringexpressions];
