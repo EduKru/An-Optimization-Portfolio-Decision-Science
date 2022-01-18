@@ -120,7 +120,7 @@ sets:
 
 array:
 - array[index_set1, index_set2, ....] of type
-- consumption = [| 1,2,3
+- arr2d = [| 1,2,3
 -                | 4 5 6 |]
 -
 
