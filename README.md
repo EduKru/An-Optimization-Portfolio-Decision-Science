@@ -64,7 +64,8 @@ Declaring variables:
 var 0..9: S;
 
 comments:
-%, /* */
+- %
+- /* */
 
 String:
 - "thisisastring"
