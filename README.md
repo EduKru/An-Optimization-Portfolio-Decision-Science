@@ -58,10 +58,7 @@ Cao Zhi
 ![image](https://user-images.githubusercontent.com/29587190/149989811-21c0b3f0-135f-47d1-b432-485fcd397848.png)
 
 MiniZinc:
-[par]<type>: <varname> [=<exp>];
- 
- (par is optional and can be omited)
- 
+Declaring variables:
 var 0..9: S;
 
 
