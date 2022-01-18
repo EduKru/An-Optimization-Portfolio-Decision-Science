@@ -122,7 +122,10 @@ array:
 - array[index_set1, index_set2, ....] of type
 - arr2d = [| 1,2,3
 -                | 4 5 6 |]
--
+
+
+set comprehension:
+- {expr | generator1, generator2, ... where bool-expr}
 
 
 ouput [listofstringexpressions];
