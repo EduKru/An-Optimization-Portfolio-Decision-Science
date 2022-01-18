@@ -73,4 +73,10 @@ String:
 - "\(v)" string literal
 - "a" + "b" concat
 
-
+Constraints:
+- =
+- !=
+- <
+- >
+- <=
+- >=
