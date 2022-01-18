@@ -101,6 +101,7 @@ Boolean expression
 - b1 <-> b2: biimplication
 - not b1: negation
 
+![image](https://user-images.githubusercontent.com/29587190/149997390-56016884-8612-418d-9d8b-c6c40e192429.png)
 
 
 ouput [listofstringexpressions];
