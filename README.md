@@ -127,6 +127,8 @@ set comprehension:
 ouput [listofstringexpressions];
 
 
+enum "口" = { "大","女","日","马"}
+
 examples:
 
 - constraint x > 0 /\ y > 0;
