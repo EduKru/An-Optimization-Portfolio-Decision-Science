@@ -67,9 +67,9 @@ comments:
 %, /* */
 
 String:
-"thisisastring"
-show(v)
-"\(v)" string literal
-"a" + "b" concat
+- "thisisastring"
+- show(v)
+- "\(v)" string literal
+- "a" + "b" concat
 
 
