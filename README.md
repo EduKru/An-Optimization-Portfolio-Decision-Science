@@ -60,7 +60,7 @@ Cao Zhi
 MiniZinc:
 [par]<type>: <varname> [=<exp>];
  
- (par is optimional and can be omited)
+ (par is optional and can be omited)
  
 var 0..9: S;
 
