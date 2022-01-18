@@ -126,6 +126,6 @@ array:
 
 set comprehension:
 - {expr | generator1, generator2, ... where bool-expr}
-
+- { i + j | i,j in 1..4 where i < j }
 
 ouput [listofstringexpressions];
