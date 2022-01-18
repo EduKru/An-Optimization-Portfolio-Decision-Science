@@ -101,14 +101,7 @@ Boolean expression
 - b1 <-> b2: biimplication
 - not b1: negation
 
-examples:
 
-- constraint x > 0 /\ y > 0;
-- constraint x > 0; % not reified
-- constraint y > 0; % not reified
-
-
-b = x[2] < y[2] /\ x[4] < y[4]
 
 
 sets:
@@ -132,3 +125,17 @@ set comprehension:
   print(ianfoi)
 
 ouput [listofstringexpressions];
+
+
+examples:
+
+- constraint x > 0 /\ y > 0;
+- constraint x > 0; % not reified
+- constraint y > 0; % not reified
+![image](https://user-images.githubusercontent.com/29587190/150001066-dbb9553d-68dd-4e08-ab15-f6d3ead9db26.png)
+
+
+b = x[2] < y[2] /\ x[4] < y[4]
+
+
+
