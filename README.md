@@ -101,7 +101,14 @@ Boolean expression
 - b1 <-> b2: biimplication
 - not b1: negation
 
-![image](https://user-images.githubusercontent.com/29587190/149997390-56016884-8612-418d-9d8b-c6c40e192429.png)
+examples:
+
+- constraint x > 0 /\ y > 0;
+- constraint x > 0; % not reified
+- constraint y > 0; % not reified
+
+
+
 
 
 ouput [listofstringexpressions];
