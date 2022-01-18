@@ -58,7 +58,18 @@ Cao Zhi
 ![image](https://user-images.githubusercontent.com/29587190/149989811-21c0b3f0-135f-47d1-b432-485fcd397848.png)
 
 MiniZinc:
+Order of commands doesnt matter at all.
+
 Declaring variables:
 var 0..9: S;
+
+comments:
+%, /* */
+
+String:
+"thisisastring"
+show(v)
+"\(v)" string literal
+"a" + "b" concat
 
 
