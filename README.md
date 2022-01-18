@@ -89,7 +89,7 @@ Inequality, Equality etc.
 - <=
 - \>=
 
-
+What is the goal?
 - solve satisfy;
 - solve maximize *expression*
 - solve minimize *arith.expression*
