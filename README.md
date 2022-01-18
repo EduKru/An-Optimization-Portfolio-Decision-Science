@@ -118,5 +118,11 @@ sets:
 - set of float: RAN = 3.0 .. 5.0;
 - set of bool: bs = {PRIME subset ROW, false}
 
+array:
+- array[index_set1, index_set2, ....] of type
+- consumption = [| 1,2,3
+-                | 4 5 6 |]
+-
+
 
 ouput [listofstringexpressions];
