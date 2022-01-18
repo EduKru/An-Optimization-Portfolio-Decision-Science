@@ -89,9 +89,10 @@ Inequality, Equality etc.
 - <=
 - \>=
 
-solve satisfy;
-solve maximize *expression*
-solve minimize *arith.expression*
+
+- solve satisfy;
+- solve maximize *expression*
+- solve minimize *arith.expression*
 
 
 ouput [listofstringexpressions];
