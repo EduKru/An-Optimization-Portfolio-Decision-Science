@@ -110,6 +110,9 @@ sets:
 - set of int: ROW = 1..6;
 - set of float: RAN = 3.0 .. 5.0;
 - set of bool: bs = {PRIME subset ROW, false}
+- min(S)
+- max(S)
+- card(S)
 
 array:
 - array[index_set1, index_set2, ....] of type
