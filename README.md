@@ -96,7 +96,7 @@ What is the goal?
 
 Boolean expression
 - b1 /\ b2 : conjunction
-- b1 \/ b2 : disjunction
+- b1 \\/ b2 : disjunction
 - b1 -> b1 : implication
 - b1 <-> b2: biimplication
 - not b1: negation
