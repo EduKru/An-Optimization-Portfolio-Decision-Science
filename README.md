@@ -52,3 +52,6 @@ X ∈ D'(X), Y ∈ D'(Y)
 Χ	χ	Chi	ch	
 Ψ	ψ	Psi	ps	
 Ω	ω	Omega	o	
+
+
+![image](https://user-images.githubusercontent.com/29587190/149989811-21c0b3f0-135f-47d1-b432-485fcd397848.png)
