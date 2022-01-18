@@ -108,7 +108,7 @@ examples:
 - constraint y > 0; % not reified
 
 
-
+b = x[2] < y[2] /\ x[4] < y[4]
 
 
 ouput [listofstringexpressions];
