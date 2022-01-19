@@ -3,7 +3,7 @@
 Crossdocking is an important operation in logistics
 
 
-I visited this cross-dock in Bornheim of the a retail company:
+I visited this cross-dock in Bornheim of a retail company:
 
 ![image](https://user-images.githubusercontent.com/29587190/150125900-1140b716-be98-424d-898e-638ee7f12715.png)
 
