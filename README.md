@@ -2,7 +2,7 @@
 
 ## Warehousing
 
-Warehousing is an important field for optimization: A lot of decisions have to be made
+Warehousing is an important field for optimization: A lot of decisions have to be made (see overview)
 
 ![image](https://user-images.githubusercontent.com/29587190/150120231-95d09b0a-7a22-49c9-a6e4-2b7e41aa58fb.png)
 
