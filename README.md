@@ -1,5 +1,10 @@
 # An-Optimization-Portfolio
 
+I present you a scheduling implementation for a warehouse operation where humans and AGV (automated guided vehicles) are supposed to work together
+
+
+
+
 I am working on this course: https://www.coursera.org/learn/basic-modeling/home/welcome
 
 This Portfolio will cover some examples of problems
