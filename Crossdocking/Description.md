@@ -1,3 +1,5 @@
+
+
 Crossdocking is an important operation in logistics
 
 
@@ -12,3 +14,7 @@ Advantages of cross-docking are:
 
 
 ![image](https://user-images.githubusercontent.com/29587190/150127216-7c39bc64-57e1-4bec-a7b1-94d622956db7.png)
+
+A lot of interesting decisions have to be made when operating a cross-dock:
+- How many workers do we need on a workshift?
+- Can we make cross-docking more efficient when we assign arriving trucks to specific docks?
