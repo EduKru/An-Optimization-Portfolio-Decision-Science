@@ -1,5 +1,12 @@
 # An-Optimization-Portfolio
 
+Why is Routing and Scheduling important in logistics especially order-picking?
+Because an order-picker spends 50% of his workday traveling through the warehouse in a not automated warehouse (Tompkins(1996)).
+
+![image](https://user-images.githubusercontent.com/29587190/150119195-86487569-b032-4f3e-a610-e027a1c7de7d.png)
+
+
+
 I present you a scheduling implementation for a warehouse operation where humans and AGV (automated guided vehicles) are supposed to work together
 
 ![image](https://user-images.githubusercontent.com/29587190/150118148-e9cb11b7-9edf-4708-85a4-1ea6408de3c9.png)
