@@ -1,5 +1,12 @@
 # An-Optimization-Portfolio
 
+## Warehousing
+
+Warehousing is an important field for optimization: A lot of decisions have to be made
+
+![image](https://user-images.githubusercontent.com/29587190/150120015-afcab847-393c-48b0-aca8-f0f903f8b144.png)
+
+
 Why is Routing and Scheduling important in logistics especially order-picking?
 Because an order-picker spends 50% of his workday traveling through the warehouse in a not automated warehouse (Tompkins(1996)).
 
