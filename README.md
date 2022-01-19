@@ -4,6 +4,7 @@ Project 1 [Warehousing-automated-guided-vehicles-order-picking](https://github.c
 
 Project 2 [Crossdock-Workforce-Scheduling-Truck-Dock-Allocation](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/Crossdocking/Description.md)
 
+Project 3 [Production Planning for a sustainable supply chain](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/Production-Planning/Description.md)
 
 
 I am working on this course: https://www.coursera.org/learn/basic-modeling/home/welcome
