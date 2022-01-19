@@ -16,7 +16,8 @@ Because an order-picker spends 50% of his workday traveling through the warehous
 
 example of an AGV
 
-![image](https://user-images.githubusercontent.com/29587190/150120555-6c1d44c4-a136-413c-b3de-5c8487ede24b.png)
+![image](https://user-images.githubusercontent.com/29587190/150220302-03d5965b-5b6f-473d-8275-ac2eb1c434c4.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/29587190/150118148-e9cb11b7-9edf-4708-85a4-1ea6408de3c9.png)
