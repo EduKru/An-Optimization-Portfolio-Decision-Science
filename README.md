@@ -4,7 +4,7 @@
 
 Warehousing is an important field for optimization: A lot of decisions have to be made
 
-![image](https://user-images.githubusercontent.com/29587190/150120015-afcab847-393c-48b0-aca8-f0f903f8b144.png)
+![image](https://user-images.githubusercontent.com/29587190/150120231-95d09b0a-7a22-49c9-a6e4-2b7e41aa58fb.png)
 
 
 Why is Routing and Scheduling important in logistics especially order-picking?
