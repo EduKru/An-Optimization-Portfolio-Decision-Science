@@ -15,6 +15,11 @@ Because an order-picker spends 50% of his workday traveling through the warehous
 
 I present you a scheduling implementation for a warehouse operation where humans and AGV (automated guided vehicles) are supposed to work together
 
+example of an AGV
+
+![image](https://user-images.githubusercontent.com/29587190/150120555-6c1d44c4-a136-413c-b3de-5c8487ede24b.png)
+
+
 ![image](https://user-images.githubusercontent.com/29587190/150118148-e9cb11b7-9edf-4708-85a4-1ea6408de3c9.png)
 
 
