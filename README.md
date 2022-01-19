@@ -1,6 +1,6 @@
 # An-Optimization-Portfolio
 
-A planning problem concerning an AGV-assisted picker routing in a single block ware-house is described. An algorithm is proposed which determines the picker and AGV routing, in order to solve the planning problem. Part of the algorithm is the ranking of order batches by a criterion. A suitable criterion is determined through tests with self-created problem instances. The effect of the increasing warehouse size (picking aisle number) on the CPU time for solving of the planning problems will be tested. The effect of the AGV fleet size, batch number, pick time and load time on the total tardiness of orders will be presented.
+A planning problem concerning an AGV-assisted picker routing in a single block ware-house is described. An algorithm is proposed which determines the picker and AGV routing, in order to solve the planning problem. Part of the algorithm is the ranking of order batches by a criterion...
 
 ## Warehousing
 
