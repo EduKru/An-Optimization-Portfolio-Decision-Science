@@ -4,6 +4,8 @@ implementation gurobi/anaconda python/jypiter notebook
 
 ![image](https://user-images.githubusercontent.com/29587190/150485879-cc85d450-a78b-4f31-b543-4682ca7c396e.png)
 
+This supply chain setup can be modeled in the following way:
+
 ![image](https://user-images.githubusercontent.com/29587190/150771323-504572e0-3862-4220-b49b-1fa584be5a33.png)
 
 - (1): The objective function consists of production-, remanufacturing-, setup-, storage-, substituion-, order-cost.
