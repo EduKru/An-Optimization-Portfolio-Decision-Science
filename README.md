@@ -12,9 +12,9 @@ Project 4: [Network Design for the liner shipping industry](https://github.com/D
 Project 5: Master thesis topic not known yet.
 
 ### Smaller Projects (currently working on this)
-- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/readme.md)
-- Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
-- Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
+- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/readme.md) -last changed 2.1.22
+- Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) -last changed 2.1.22
+- Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) -last changed 2.1.22
 - 
 
 MiniZinc [Study notes](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/MiniZincSolver/Description.md)
