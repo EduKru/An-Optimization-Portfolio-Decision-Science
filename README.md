@@ -15,7 +15,9 @@ Project 5: Master thesis topic not known yet.
 - Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/readme.md) 📅Currently Working on
 - Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
 - Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) 
-- 
+
+
+---
 
 MiniZinc [Study notes](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/MiniZincSolver/Description.md)
 I am working on this course: https://www.coursera.org/learn/basic-modeling/home/welcome
