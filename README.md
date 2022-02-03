@@ -1,5 +1,5 @@
 # Operations Research Projects (Check for Overview)
-This is a portfolio on all the projects I completed during my studies at TU Kaiserslautern. The smaller projects I started on my own in order to get familiar with other solvers like gurobi and MiniZinc.
+This is a portfolio on all the projects I completed during my studies at TU Kaiserslautern. The smaller projects I started on my own, in order to get familiar with other solvers like gurobi and MiniZinc.
 ---
 
 ### Major Projects
