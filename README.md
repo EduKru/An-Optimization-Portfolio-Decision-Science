@@ -1,4 +1,7 @@
-# Operations Research Projects (Check for Overview)
+# Operations Research Projects (Check for Overview) How to make decisions in a complex world?
+---
+This is a portfolio on all the projects I completed during my studies at TU Kaiserslautern. The smaller projects I started on my own, in order to get familiar with other solvers like Gurobi and MiniZinc. Topics varied from intralogistical planning problems to larger scale supply chain network optimization problems. I would like to apply my knowledge in the industry when I am done with my masters.
+
 ---
 
 ### Major Projects
