@@ -13,7 +13,7 @@ Project 3: [Production Planning for a sustainable supply chain](https://github.c
 
 Project 4: [Network Design for the liner shipping industry](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Container-Shipping-Network-Optimization/Description.md)
 
-Project 5: Master thesis topic not known yet.
+Project 5: Master thesis topic: Supply chain optimization
 
 ---
 
