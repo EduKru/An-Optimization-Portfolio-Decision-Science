@@ -10,6 +10,12 @@ Common problem types in the real-world:
 - ...
 
 
+### Smaller Projects (currently working on this)
+- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/VRP.ipynb) 📅Currently Working on
+- Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
+- Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) 
+
+
 ### Major Projects
 Project 1: [Warehousing-automated-guided-vehicles-order-picking](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/AGV-Routing-Scheduling/Description.md)
 
@@ -22,11 +28,6 @@ Project 4: [Network Design for the liner shipping industry](https://github.com/E
 Project 5: Master thesis topic: Supply chain optimization
 
 ---
-
-### Smaller Projects (currently working on this)
-- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/VRP.ipynb) 📅Currently Working on
-- Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
-- Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) 
 
 
 ---
