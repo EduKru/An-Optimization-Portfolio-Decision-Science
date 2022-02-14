@@ -24,7 +24,7 @@ Project 5: Master thesis topic: Supply chain optimization
 ---
 
 ### Smaller Projects (currently working on this)
-- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/readme.md) 📅Currently Working on
+- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/VRP.ipynb) 📅Currently Working on
 - Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
 - Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) 
 
