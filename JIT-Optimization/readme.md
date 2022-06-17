@@ -9,3 +9,7 @@ and service times.
 
 A matheuristic was developed to solve the problem.
 ![Capture](https://user-images.githubusercontent.com/29587190/174334918-63f6ff38-b98a-4418-bfa8-5db8fcdddcce.JPG)
+
+
+Solutions were visualized by the matplotlib library:
+![#1___4c15j2m2v___10Rho3Mu200delta](https://user-images.githubusercontent.com/29587190/174335237-9571f86e-972d-4699-9a54-1030e2eaac2c.png)
