@@ -2,20 +2,6 @@
 ---
 This is a portfolio on all the projects I completed during my studies at TU Kaiserslautern. The smaller projects I started on my own, in order to get familiar with other solvers like Gurobi and MiniZinc. Topics varied from intralogistical planning problems to larger scale supply chain network optimization problems. I would like to apply my knowledge in the industry when I am done with my masters.
 ---
-
-Common problem types in the real-world: 
-- Rostering (https://en.wikipedia.org/wiki/Nurse_scheduling_problem)
-- Scheduling (https://en.wikipedia.org/wiki/Job-shop_scheduling)
-- Routing (https://en.wikipedia.org/wiki/Vehicle_routing_problem)
-- ...
-
-
-### Smaller Projects (currently working on this)
-- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/VRP.ipynb) 📅Currently Working on
-- Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
-- Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) 
-
-
 ### Major Projects
 Project 1: [Warehousing-automated-guided-vehicles-order-picking](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/AGV-Routing-Scheduling/Description.md)
 
@@ -26,6 +12,14 @@ Project 3: [Production Planning for a sustainable supply chain](https://github.c
 Project 4: [Network Design for the liner shipping industry](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Container-Shipping-Network-Optimization/Description.md)
 
 Project 5: [Just in time optimization](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/JIT-Optimization/readme.md)
+
+
+### Smaller Projects (currently working on this)
+- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/VRP.ipynb) 
+- Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
+- Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) 
+
+
 
 ---
 
