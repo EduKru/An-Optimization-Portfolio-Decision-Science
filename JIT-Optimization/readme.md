@@ -6,3 +6,6 @@ could be applied in a just-in-time production environment. The problem can be de
 with machine ready times and job dependant processing times. The second subproblem
 focuses on the delivery of jobs by a vehicle fleet while considering delivery time windows
 and service times.
+
+A matheuristic was developed to solve the problem.
+![Capture](https://user-images.githubusercontent.com/29587190/174334918-63f6ff38-b98a-4418-bfa8-5db8fcdddcce.JPG)
