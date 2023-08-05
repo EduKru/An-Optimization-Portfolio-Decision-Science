@@ -5,17 +5,17 @@ This is a portfolio on all the projects I completed during my studies at TU Kais
 ### Major Projects
 Project 1: [Warehousing-automated-guided-vehicles-order-picking](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/AGV-Routing-Scheduling/Description.md)
 
-Project 2: [Crossdock-Workforce-Scheduling-Truck-Dock-Allocation](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/Crossdocking/Description.md)
+Project 2: [Crossdock-Workforce-Scheduling-Truck-Dock-Allocation](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/Crossdocking/Description.md) (mathematical description)
 
-Project 3: [Production Planning for a sustainable supply chain](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/Production-Planning/Description.md)
+Project 3: [Production Planning for a sustainable supply chain](https://github.com/DerEddie/An-Optimization-Portfolio-Decision-Science/blob/main/Production-Planning/Description.md) (mathematical description)
 
-Project 4: [Network Design for the liner shipping industry](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Container-Shipping-Network-Optimization/Description.md)
+Project 4: [Network Design for the liner shipping industry](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Container-Shipping-Network-Optimization/Description.md) (mathematical description)
 
-Project 5: [Just in time optimization](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/JIT-Optimization/readme.md)
+Project 5: [Just in time optimization](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/JIT-Optimization/readme.md) (Master thesis - Python implementation)
 
 
 ### Smaller Projects (currently working on this)
-- Vehicle Routing Problem (Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/VRP.ipynb) 
+- Vehicle Routing Problem (python Gurobi Implementation): [VRP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/VRP/VRP.ipynb) [A good short example for what can be done with Operations Research tools]
 - Facility Location Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb)
 - Production Planning Problem [FLP](https://github.com/EduKru/An-Optimization-Portfolio-Decision-Science/blob/main/Location%20Problems/FLP.ipynb) 
 
